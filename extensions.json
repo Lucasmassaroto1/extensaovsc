@@ -13,6 +13,8 @@
     "ms-python.vscode-pylance",
     "ms-python.python",
     "ms-python.debugpy",
-    "vscode-icons-team.vscode-icons"
+    "vscode-icons-team.vscode-icons",
+    "hakcorp.php-awesome-snippets",
+    "bmewburn.vscode-intelephense-client"
   ]
 }
